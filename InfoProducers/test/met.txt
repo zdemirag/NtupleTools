@@ -1,0 +1,694 @@
+******************************************************************************
+*Tree    :Events    :                                                        *
+*Entries :       10 : Total =         3264025 bytes  File  Size =     722329 *
+*        :          : Tree compression factor =   2.84                       *
+******************************************************************************
+*Branch  :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.                 *
+*Entries :       10 : BranchElement (see below)                              *
+*............................................................................*
+*Br    0 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.present : Bool_t *
+*Entries :       10 : Total  Size=        822 bytes  File Size  =        136 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br    1 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj :            *
+*         | Int_t l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_     *
+*Entries :       10 : Total  Size=      15834 bytes  File Size  =        175 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.20     *
+*............................................................................*
+*Br    2 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.m_state.vertex_.fCoordinates.fX : *
+*         | Double32_t fX[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1234 bytes  File Size  =        205 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.57     *
+*............................................................................*
+*Br    3 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.m_state.vertex_.fCoordinates.fY : *
+*         | Double32_t fY[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1234 bytes  File Size  =        205 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.57     *
+*............................................................................*
+*Br    4 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.m_state.vertex_.fCoordinates.fZ : *
+*         | Double32_t fZ[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1234 bytes  File Size  =        205 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.57     *
+*............................................................................*
+*Br    5 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.m_state.p4Polar_.fCoordinates.fPt : *
+*         | Double32_t fPt[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1242 bytes  File Size  =        273 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.19     *
+*............................................................................*
+*Br    6 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.m_state.p4Polar_.fCoordinates.fEta : *
+*         | Double32_t fEta[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1247 bytes  File Size  =        208 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.56     *
+*............................................................................*
+*Br    7 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.m_state.p4Polar_.fCoordinates.fPhi : *
+*         | Double32_t fPhi[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1247 bytes  File Size  =        277 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.17     *
+*............................................................................*
+*Br    8 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.m_state.p4Polar_.fCoordinates.fM : *
+*         | Double32_t fM[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1237 bytes  File Size  =        206 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.57     *
+*............................................................................*
+*Br    9 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.m_state.qx3_ : *
+*         | Int_t qx3_[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1181 bytes  File Size  =        185 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.64     *
+*............................................................................*
+*Br   10 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.m_state.pdgId_ : *
+*         | Int_t pdgId_[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1191 bytes  File Size  =        187 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.63     *
+*............................................................................*
+*Br   11 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.m_state.status_ : *
+*         | Int_t status_[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1196 bytes  File Size  =        188 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.63     *
+*............................................................................*
+*Br   12 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.type_ :      *
+*         | Int_t type_[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1162 bytes  File Size  =        178 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.66     *
+*............................................................................*
+*Br   13 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.etTot_ :     *
+*         | Double_t etTot_[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1287 bytes  File Size  =        251 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.66     *
+*............................................................................*
+*Br   14 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.etMissRef_.product_ : *
+*         | edm:                                                             *
+*         | :RefCoreWithIndex product_[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1390 bytes  File Size  =        205 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   2.39     *
+*............................................................................*
+*Br   15 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.etTotRef_.product_ : *
+*         | edm:                                                             *
+*         | :RefCoreWithIndex product_[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1387 bytes  File Size  =        209 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   2.34     *
+*............................................................................*
+*Br   16 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.htMissRef_.product_ : *
+*         | edm:                                                             *
+*         | :RefCoreWithIndex product_[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1390 bytes  File Size  =        201 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   2.44     *
+*............................................................................*
+*Br   17 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.etHadRef_.product_ : *
+*         | edm:                                                             *
+*         | :RefCoreWithIndex product_[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1387 bytes  File Size  =        200 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   2.44     *
+*............................................................................*
+*Br   18 :l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj.bx_ :        *
+*         | Int_t bx_[l1extraL1EtMissParticles_l1extraParticles_MET_HLT.obj_]*
+*Entries :       10 : Total  Size=       1152 bytes  File Size  =        176 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.67     *
+*............................................................................*
+*Branch  :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.                *
+*Entries :       10 : BranchElement (see below)                              *
+*............................................................................*
+*Br   19 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.present : Bool_t*
+*Entries :       10 : Total  Size=        827 bytes  File Size  =        137 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   20 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj :           *
+*         | Int_t l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_    *
+*Entries :       10 : Total  Size=      15909 bytes  File Size  =        176 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.20     *
+*............................................................................*
+*Br   21 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.m_state.vertex_.fCoordinates.fX : *
+*         | Double32_t fX[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1241 bytes  File Size  =        206 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.57     *
+*............................................................................*
+*Br   22 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.m_state.vertex_.fCoordinates.fY : *
+*         | Double32_t fY[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1241 bytes  File Size  =        206 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.57     *
+*............................................................................*
+*Br   23 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.m_state.vertex_.fCoordinates.fZ : *
+*         | Double32_t fZ[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1241 bytes  File Size  =        206 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.57     *
+*............................................................................*
+*Br   24 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.m_state.p4Polar_.fCoordinates.fPt : *
+*         | Double32_t fPt[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1249 bytes  File Size  =        273 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.19     *
+*............................................................................*
+*Br   25 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.m_state.p4Polar_.fCoordinates.fEta : *
+*         | Double32_t fEta[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1254 bytes  File Size  =        209 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.56     *
+*............................................................................*
+*Br   26 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.m_state.p4Polar_.fCoordinates.fPhi : *
+*         | Double32_t fPhi[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1254 bytes  File Size  =        277 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.18     *
+*............................................................................*
+*Br   27 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.m_state.p4Polar_.fCoordinates.fM : *
+*         | Double32_t fM[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1244 bytes  File Size  =        207 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.57     *
+*............................................................................*
+*Br   28 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.m_state.qx3_ : *
+*         | Int_t qx3_[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1188 bytes  File Size  =        186 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.63     *
+*............................................................................*
+*Br   29 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.m_state.pdgId_ : *
+*         | Int_t pdgId_[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1198 bytes  File Size  =        188 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.63     *
+*............................................................................*
+*Br   30 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.m_state.status_ : *
+*         | Int_t status_[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1203 bytes  File Size  =        189 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.62     *
+*............................................................................*
+*Br   31 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.type_ :     *
+*         | Int_t type_[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1169 bytes  File Size  =        179 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.66     *
+*............................................................................*
+*Br   32 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.etTot_ :    *
+*         | Double_t etTot_[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1294 bytes  File Size  =        252 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.66     *
+*............................................................................*
+*Br   33 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.etMissRef_.product_ : *
+*         | edm:                                                             *
+*         | :RefCoreWithIndex product_[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1397 bytes  File Size  =        206 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   2.38     *
+*............................................................................*
+*Br   34 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.etTotRef_.product_ : *
+*         | edm:                                                             *
+*         | :RefCoreWithIndex product_[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1394 bytes  File Size  =        210 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   2.33     *
+*............................................................................*
+*Br   35 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.htMissRef_.product_ : *
+*         | edm:                                                             *
+*         | :RefCoreWithIndex product_[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1397 bytes  File Size  =        202 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   2.43     *
+*............................................................................*
+*Br   36 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.etHadRef_.product_ : *
+*         | edm:                                                             *
+*         | :RefCoreWithIndex product_[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1394 bytes  File Size  =        201 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   2.44     *
+*............................................................................*
+*Br   37 :l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj.bx_ :       *
+*         | Int_t bx_[l1extraL1EtMissParticles_l1extraParticles_MET_RECO.obj_]*
+*Entries :       10 : Total  Size=       1159 bytes  File Size  =        177 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.67     *
+*............................................................................*
+*Branch  :patMETs_slimmedMETs__PAT.                                          *
+*Entries :       10 : BranchElement (see below)                              *
+*............................................................................*
+*Br   38 :patMETs_slimmedMETs__PAT.present : Bool_t                          *
+*Entries :       10 : Total  Size=        697 bytes  File Size  =        111 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   39 :patMETs_slimmedMETs__PAT.obj : Int_t patMETs_slimmedMETs__PAT.obj_ *
+*Entries :       10 : Total  Size=      32917 bytes  File Size  =        149 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.24     *
+*............................................................................*
+*Br   40 :patMETs_slimmedMETs__PAT.obj.m_state.vertex_.fCoordinates.fX :     *
+*         | Double32_t fX[patMETs_slimmedMETs__PAT.obj_]                     *
+*Entries :       10 : Total  Size=        979 bytes  File Size  =        178 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.22     *
+*............................................................................*
+*Br   41 :patMETs_slimmedMETs__PAT.obj.m_state.vertex_.fCoordinates.fY :     *
+*         | Double32_t fY[patMETs_slimmedMETs__PAT.obj_]                     *
+*Entries :       10 : Total  Size=        979 bytes  File Size  =        178 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.22     *
+*............................................................................*
+*Br   42 :patMETs_slimmedMETs__PAT.obj.m_state.vertex_.fCoordinates.fZ :     *
+*         | Double32_t fZ[patMETs_slimmedMETs__PAT.obj_]                     *
+*Entries :       10 : Total  Size=        979 bytes  File Size  =        178 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.22     *
+*............................................................................*
+*Br   43 :patMETs_slimmedMETs__PAT.obj.m_state.p4Polar_.fCoordinates.fPt :   *
+*         | Double32_t fPt[patMETs_slimmedMETs__PAT.obj_]                    *
+*Entries :       10 : Total  Size=        987 bytes  File Size  =        219 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   44 :patMETs_slimmedMETs__PAT.obj.m_state.p4Polar_.fCoordinates.fEta :  *
+*         | Double32_t fEta[patMETs_slimmedMETs__PAT.obj_]                   *
+*Entries :       10 : Total  Size=        992 bytes  File Size  =        181 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.22     *
+*............................................................................*
+*Br   45 :patMETs_slimmedMETs__PAT.obj.m_state.p4Polar_.fCoordinates.fPhi :  *
+*         | Double32_t fPhi[patMETs_slimmedMETs__PAT.obj_]                   *
+*Entries :       10 : Total  Size=        992 bytes  File Size  =        220 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   46 :patMETs_slimmedMETs__PAT.obj.m_state.p4Polar_.fCoordinates.fM :    *
+*         | Double32_t fM[patMETs_slimmedMETs__PAT.obj_]                     *
+*Entries :       10 : Total  Size=        982 bytes  File Size  =        197 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.11     *
+*............................................................................*
+*Br   47 :patMETs_slimmedMETs__PAT.obj.m_state.qx3_ :                        *
+*         | Int_t qx3_[patMETs_slimmedMETs__PAT.obj_]                        *
+*Entries :       10 : Total  Size=        926 bytes  File Size  =        159 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.25     *
+*............................................................................*
+*Br   48 :patMETs_slimmedMETs__PAT.obj.m_state.pdgId_ :                      *
+*         | Int_t pdgId_[patMETs_slimmedMETs__PAT.obj_]                      *
+*Entries :       10 : Total  Size=        936 bytes  File Size  =        161 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.24     *
+*............................................................................*
+*Br   49 :patMETs_slimmedMETs__PAT.obj.m_state.status_ :                     *
+*         | Int_t status_[patMETs_slimmedMETs__PAT.obj_]                     *
+*Entries :       10 : Total  Size=        941 bytes  File Size  =        162 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.24     *
+*............................................................................*
+*Br   50 :patMETs_slimmedMETs__PAT.obj.sumet :                               *
+*         | Double_t sumet[patMETs_slimmedMETs__PAT.obj_]                    *
+*Entries :       10 : Total  Size=        947 bytes  File Size  =        231 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   51 :patMETs_slimmedMETs__PAT.obj.elongit :                             *
+*         | Double_t elongit[patMETs_slimmedMETs__PAT.obj_]                  *
+*Entries :       10 : Total  Size=        957 bytes  File Size  =        154 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.51     *
+*............................................................................*
+*Br   52 :patMETs_slimmedMETs__PAT.obj.signif_dxx :                          *
+*         | Double_t signif_dxx[patMETs_slimmedMETs__PAT.obj_]               *
+*Entries :       10 : Total  Size=        972 bytes  File Size  =        157 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.50     *
+*............................................................................*
+*Br   53 :patMETs_slimmedMETs__PAT.obj.signif_dyy :                          *
+*         | Double_t signif_dyy[patMETs_slimmedMETs__PAT.obj_]               *
+*Entries :       10 : Total  Size=        972 bytes  File Size  =        157 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.50     *
+*............................................................................*
+*Br   54 :patMETs_slimmedMETs__PAT.obj.signif_dyx :                          *
+*         | Double_t signif_dyx[patMETs_slimmedMETs__PAT.obj_]               *
+*Entries :       10 : Total  Size=        972 bytes  File Size  =        157 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.50     *
+*............................................................................*
+*Br   55 :patMETs_slimmedMETs__PAT.obj.signif_dxy :                          *
+*         | Double_t signif_dxy[patMETs_slimmedMETs__PAT.obj_]               *
+*Entries :       10 : Total  Size=        972 bytes  File Size  =        157 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.50     *
+*............................................................................*
+*Br   56 :patMETs_slimmedMETs__PAT.obj.corr :                                *
+*         | vector<CorrMETData> corr[patMETs_slimmedMETs__PAT.obj_]          *
+*Entries :       10 : Total  Size=        982 bytes  File Size  =        162 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.67     *
+*............................................................................*
+*Br   57 :patMETs_slimmedMETs__PAT.obj.refToOrig_.core_ : edm:               *
+*         | :RefCore core_[patMETs_slimmedMETs__PAT.obj_]                    *
+*Entries :       10 : Total  Size=        960 bytes  File Size  =        171 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.30     *
+*............................................................................*
+*Br   58 :patMETs_slimmedMETs__PAT.obj.refToOrig_.key_ :                     *
+*         | ULong_t key_[patMETs_slimmedMETs__PAT.obj_]                      *
+*Entries :       10 : Total  Size=        975 bytes  File Size  =        162 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.49     *
+*............................................................................*
+*Br   59 :patMETs_slimmedMETs__PAT.obj.triggerObjectMatchesEmbedded_ :       *
+*         | vector<pat:                                                      *
+*         | :TriggerObjectStandAlone> triggerObjectMatchesEmbedded_[patMETs_slimmedMETs__PAT.obj_]*
+*Entries :       10 : Total  Size=       1107 bytes  File Size  =        188 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.57     *
+*............................................................................*
+*Br   60 :patMETs_slimmedMETs__PAT.obj.efficiencyValues_ : vector<pat:       *
+*         | :LookupTableRecord> efficiencyValues_[patMETs_slimmedMETs__PAT.obj_]*
+*Entries :       10 : Total  Size=       1047 bytes  File Size  =        176 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.61     *
+*............................................................................*
+*Br   61 :patMETs_slimmedMETs__PAT.obj.efficiencyNames_ :                    *
+*         | vector<string> efficiencyNames_[patMETs_slimmedMETs__PAT.obj_]   *
+*Entries :       10 : Total  Size=       1022 bytes  File Size  =        173 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.51     *
+*............................................................................*
+*Br   62 :patMETs_slimmedMETs__PAT.obj.genParticleRef_ : vector<edm:         *
+*         | :Ref<vector<reco::GenParticle>,reco::GenParticle,edm::refhelper: *
+*         | :FindUsingAdvance<vector<reco::GenParticle>,reco:                *
+*         | :GenParticle> > > genParticleRef_[patMETs_slimmedMETs__PAT.obj_] *
+*Entries :       10 : Total  Size=       1037 bytes  File Size  =        173 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.62     *
+*............................................................................*
+*Br   63 :patMETs_slimmedMETs__PAT.obj.genParticleEmbedded_ : vector<reco:   *
+*         | :GenParticle> genParticleEmbedded_[patMETs_slimmedMETs__PAT.obj_]*
+*Entries :       10 : Total  Size=       1062 bytes  File Size  =        179 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.60     *
+*............................................................................*
+*Br   64 :patMETs_slimmedMETs__PAT.obj.overlapLabels_ :                      *
+*         | vector<string> overlapLabels_[patMETs_slimmedMETs__PAT.obj_]     *
+*Entries :       10 : Total  Size=       1012 bytes  File Size  =        171 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.52     *
+*............................................................................*
+*Br   65 :patMETs_slimmedMETs__PAT.obj.overlapItems_ : vector<edm:           *
+*         | :PtrVector<reco:                                                 *
+*         | :Candidate> > overlapItems_[patMETs_slimmedMETs__PAT.obj_]       *
+*Entries :       10 : Total  Size=       1027 bytes  File Size  =        172 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.62     *
+*............................................................................*
+*Br   66 :patMETs_slimmedMETs__PAT.obj.userDataLabels_ :                     *
+*         | vector<string> userDataLabels_[patMETs_slimmedMETs__PAT.obj_]    *
+*Entries :       10 : Total  Size=       1017 bytes  File Size  =        172 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.52     *
+*............................................................................*
+*Br   67 :patMETs_slimmedMETs__PAT.obj.userDataObjects_.data_ : vector<pat:  *
+*         | :UserData*> data_[patMETs_slimmedMETs__PAT.obj_]                 *
+*Entries :       10 : Total  Size=       1018 bytes  File Size  =        179 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.50     *
+*............................................................................*
+*Br   68 :patMETs_slimmedMETs__PAT.obj.userFloatLabels_ :                    *
+*         | vector<string> userFloatLabels_[patMETs_slimmedMETs__PAT.obj_]   *
+*Entries :       10 : Total  Size=       1022 bytes  File Size  =        173 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.51     *
+*............................................................................*
+*Br   69 :patMETs_slimmedMETs__PAT.obj.userFloats_ :                         *
+*         | vector<float> userFloats_[patMETs_slimmedMETs__PAT.obj_]         *
+*Entries :       10 : Total  Size=        997 bytes  File Size  =        168 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.53     *
+*............................................................................*
+*Br   70 :patMETs_slimmedMETs__PAT.obj.userIntLabels_ :                      *
+*         | vector<string> userIntLabels_[patMETs_slimmedMETs__PAT.obj_]     *
+*Entries :       10 : Total  Size=       1012 bytes  File Size  =        171 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.52     *
+*............................................................................*
+*Br   71 :patMETs_slimmedMETs__PAT.obj.userInts_ :                           *
+*         | vector<int> userInts_[patMETs_slimmedMETs__PAT.obj_]             *
+*Entries :       10 : Total  Size=        987 bytes  File Size  =        166 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.54     *
+*............................................................................*
+*Br   72 :patMETs_slimmedMETs__PAT.obj.userCandLabels_ :                     *
+*         | vector<string> userCandLabels_[patMETs_slimmedMETs__PAT.obj_]    *
+*Entries :       10 : Total  Size=       1017 bytes  File Size  =        172 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.52     *
+*............................................................................*
+*Br   73 :patMETs_slimmedMETs__PAT.obj.userCands_ : vector<edm::Ptr<reco:    *
+*         | :Candidate> > userCands_[patMETs_slimmedMETs__PAT.obj_]          *
+*Entries :       10 : Total  Size=       1012 bytes  File Size  =        169 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.63     *
+*............................................................................*
+*Br   74 :patMETs_slimmedMETs__PAT.obj.kinResolutions_ : vector<pat:         *
+*         | :CandKinResolution> kinResolutions_[patMETs_slimmedMETs__PAT.obj_]*
+*Entries :       10 : Total  Size=       1037 bytes  File Size  =        174 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.61     *
+*............................................................................*
+*Br   75 :patMETs_slimmedMETs__PAT.obj.kinResolutionLabels_ :                *
+*         | vector<string> kinResolutionLabels_[patMETs_slimmedMETs__PAT.obj_]*
+*Entries :       10 : Total  Size=       1042 bytes  File Size  =        177 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.50     *
+*............................................................................*
+*Br   76 :patMETs_slimmedMETs__PAT.obj.genMET_ : vector<reco:                *
+*         | :GenMET> genMET_[patMETs_slimmedMETs__PAT.obj_]                  *
+*Entries :       10 : Total  Size=       2917 bytes  File Size  =        751 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   2.92     *
+*............................................................................*
+*Br   77 :patMETs_slimmedMETs__PAT.obj.caloMET_ :                            *
+*         | vector<SpecificCaloMETData> caloMET_[patMETs_slimmedMETs__PAT.obj_]*
+*Entries :       10 : Total  Size=       1002 bytes  File Size  =        166 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.65     *
+*............................................................................*
+*Br   78 :patMETs_slimmedMETs__PAT.obj.pfMET_ :                              *
+*         | vector<SpecificPFMETData> pfMET_[patMETs_slimmedMETs__PAT.obj_]  *
+*Entries :       10 : Total  Size=       1272 bytes  File Size  =        452 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.22     *
+*............................................................................*
+*Br   79 :patMETs_slimmedMETs__PAT.obj.uncertaintiesRaw_ : vector<pat::MET:  *
+*         | :PackedMETUncertainty> uncertaintiesRaw_[patMETs_slimmedMETs__PAT.obj_]*
+*Entries :       10 : Total  Size=       1827 bytes  File Size  =        701 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.52     *
+*............................................................................*
+*Br   80 :patMETs_slimmedMETs__PAT.obj.uncertaintiesType1_ : vector<pat::MET:*
+*         | :PackedMETUncertainty> uncertaintiesType1_[patMETs_slimmedMETs__PAT.obj_]*
+*Entries :       10 : Total  Size=       1837 bytes  File Size  =        730 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.46     *
+*............................................................................*
+*Br   81 :patMETs_slimmedMETs__PAT.obj.uncertaintiesType1p2_ : vector<pat:   *
+*         | :MET:                                                            *
+*         | :PackedMETUncertainty> uncertaintiesType1p2_[patMETs_slimmedMETs__PAT.obj_]*
+*Entries :       10 : Total  Size=       1847 bytes  File Size  =        703 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.52     *
+*............................................................................*
+*Br   82 :patMETs_slimmedMETs__PAT.obj.caloPackedMet_.packedDpx_ :           *
+*         | UShort_t packedDpx_[patMETs_slimmedMETs__PAT.obj_]               *
+*Entries :       10 : Total  Size=        957 bytes  File Size  =        191 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   83 :patMETs_slimmedMETs__PAT.obj.caloPackedMet_.packedDpy_ :           *
+*         | UShort_t packedDpy_[patMETs_slimmedMETs__PAT.obj_]               *
+*Entries :       10 : Total  Size=        957 bytes  File Size  =        191 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   84 :patMETs_slimmedMETs__PAT.obj.caloPackedMet_.packedDSumEt_ :        *
+*         | UShort_t packedDSumEt_[patMETs_slimmedMETs__PAT.obj_]            *
+*Entries :       10 : Total  Size=        972 bytes  File Size  =        194 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Branch  :patMETs_slimmedMETsPuppi__PAT.                                     *
+*Entries :       10 : BranchElement (see below)                              *
+*............................................................................*
+*Br   85 :patMETs_slimmedMETsPuppi__PAT.present : Bool_t                     *
+*Entries :       10 : Total  Size=        722 bytes  File Size  =        116 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   86 :patMETs_slimmedMETsPuppi__PAT.obj :                                *
+*         | Int_t patMETs_slimmedMETsPuppi__PAT.obj_                         *
+*Entries :       10 : Total  Size=      33852 bytes  File Size  =        154 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.23     *
+*............................................................................*
+*Br   87 :patMETs_slimmedMETsPuppi__PAT.obj.m_state.vertex_.fCoordinates.fX : *
+*         | Double32_t fX[patMETs_slimmedMETsPuppi__PAT.obj_]                *
+*Entries :       10 : Total  Size=       1014 bytes  File Size  =        183 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.21     *
+*............................................................................*
+*Br   88 :patMETs_slimmedMETsPuppi__PAT.obj.m_state.vertex_.fCoordinates.fY : *
+*         | Double32_t fY[patMETs_slimmedMETsPuppi__PAT.obj_]                *
+*Entries :       10 : Total  Size=       1014 bytes  File Size  =        183 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.21     *
+*............................................................................*
+*Br   89 :patMETs_slimmedMETsPuppi__PAT.obj.m_state.vertex_.fCoordinates.fZ : *
+*         | Double32_t fZ[patMETs_slimmedMETsPuppi__PAT.obj_]                *
+*Entries :       10 : Total  Size=       1014 bytes  File Size  =        183 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.21     *
+*............................................................................*
+*Br   90 :patMETs_slimmedMETsPuppi__PAT.obj.m_state.p4Polar_.fCoordinates.fPt : *
+*         | Double32_t fPt[patMETs_slimmedMETsPuppi__PAT.obj_]               *
+*Entries :       10 : Total  Size=       1022 bytes  File Size  =        224 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   91 :patMETs_slimmedMETsPuppi__PAT.obj.m_state.p4Polar_.fCoordinates.fEta : *
+*         | Double32_t fEta[patMETs_slimmedMETsPuppi__PAT.obj_]              *
+*Entries :       10 : Total  Size=       1027 bytes  File Size  =        187 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.20     *
+*............................................................................*
+*Br   92 :patMETs_slimmedMETsPuppi__PAT.obj.m_state.p4Polar_.fCoordinates.fPhi : *
+*         | Double32_t fPhi[patMETs_slimmedMETsPuppi__PAT.obj_]              *
+*Entries :       10 : Total  Size=       1027 bytes  File Size  =        225 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   93 :patMETs_slimmedMETsPuppi__PAT.obj.m_state.p4Polar_.fCoordinates.fM : *
+*         | Double32_t fM[patMETs_slimmedMETsPuppi__PAT.obj_]                *
+*Entries :       10 : Total  Size=       1017 bytes  File Size  =        213 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.05     *
+*............................................................................*
+*Br   94 :patMETs_slimmedMETsPuppi__PAT.obj.m_state.qx3_ :                   *
+*         | Int_t qx3_[patMETs_slimmedMETsPuppi__PAT.obj_]                   *
+*Entries :       10 : Total  Size=        961 bytes  File Size  =        164 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.24     *
+*............................................................................*
+*Br   95 :patMETs_slimmedMETsPuppi__PAT.obj.m_state.pdgId_ :                 *
+*         | Int_t pdgId_[patMETs_slimmedMETsPuppi__PAT.obj_]                 *
+*Entries :       10 : Total  Size=        971 bytes  File Size  =        166 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.23     *
+*............................................................................*
+*Br   96 :patMETs_slimmedMETsPuppi__PAT.obj.m_state.status_ :                *
+*         | Int_t status_[patMETs_slimmedMETsPuppi__PAT.obj_]                *
+*Entries :       10 : Total  Size=        976 bytes  File Size  =        167 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.23     *
+*............................................................................*
+*Br   97 :patMETs_slimmedMETsPuppi__PAT.obj.sumet :                          *
+*         | Double_t sumet[patMETs_slimmedMETsPuppi__PAT.obj_]               *
+*Entries :       10 : Total  Size=        982 bytes  File Size  =        236 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   98 :patMETs_slimmedMETsPuppi__PAT.obj.elongit :                        *
+*         | Double_t elongit[patMETs_slimmedMETsPuppi__PAT.obj_]             *
+*Entries :       10 : Total  Size=        992 bytes  File Size  =        159 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.50     *
+*............................................................................*
+*Br   99 :patMETs_slimmedMETsPuppi__PAT.obj.signif_dxx :                     *
+*         | Double_t signif_dxx[patMETs_slimmedMETsPuppi__PAT.obj_]          *
+*Entries :       10 : Total  Size=       1007 bytes  File Size  =        162 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.49     *
+*............................................................................*
+*Br  100 :patMETs_slimmedMETsPuppi__PAT.obj.signif_dyy :                     *
+*         | Double_t signif_dyy[patMETs_slimmedMETsPuppi__PAT.obj_]          *
+*Entries :       10 : Total  Size=       1007 bytes  File Size  =        162 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.49     *
+*............................................................................*
+*Br  101 :patMETs_slimmedMETsPuppi__PAT.obj.signif_dyx :                     *
+*         | Double_t signif_dyx[patMETs_slimmedMETsPuppi__PAT.obj_]          *
+*Entries :       10 : Total  Size=       1007 bytes  File Size  =        162 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.49     *
+*............................................................................*
+*Br  102 :patMETs_slimmedMETsPuppi__PAT.obj.signif_dxy :                     *
+*         | Double_t signif_dxy[patMETs_slimmedMETsPuppi__PAT.obj_]          *
+*Entries :       10 : Total  Size=       1007 bytes  File Size  =        162 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.49     *
+*............................................................................*
+*Br  103 :patMETs_slimmedMETsPuppi__PAT.obj.corr :                           *
+*         | vector<CorrMETData> corr[patMETs_slimmedMETsPuppi__PAT.obj_]     *
+*Entries :       10 : Total  Size=       1017 bytes  File Size  =        167 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.65     *
+*............................................................................*
+*Br  104 :patMETs_slimmedMETsPuppi__PAT.obj.refToOrig_.core_ : edm:          *
+*         | :RefCore core_[patMETs_slimmedMETsPuppi__PAT.obj_]               *
+*Entries :       10 : Total  Size=        995 bytes  File Size  =        176 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.29     *
+*............................................................................*
+*Br  105 :patMETs_slimmedMETsPuppi__PAT.obj.refToOrig_.key_ :                *
+*         | ULong_t key_[patMETs_slimmedMETsPuppi__PAT.obj_]                 *
+*Entries :       10 : Total  Size=       1010 bytes  File Size  =        167 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.47     *
+*............................................................................*
+*Br  106 :patMETs_slimmedMETsPuppi__PAT.obj.triggerObjectMatchesEmbedded_ :  *
+*         | vector<pat:                                                      *
+*         | :TriggerObjectStandAlone> triggerObjectMatchesEmbedded_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1142 bytes  File Size  =        193 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.55     *
+*............................................................................*
+*Br  107 :patMETs_slimmedMETsPuppi__PAT.obj.efficiencyValues_ : vector<pat:  *
+*         | :LookupTableRecord> efficiencyValues_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1082 bytes  File Size  =        181 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.59     *
+*............................................................................*
+*Br  108 :patMETs_slimmedMETsPuppi__PAT.obj.efficiencyNames_ :               *
+*         | vector<string> efficiencyNames_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1057 bytes  File Size  =        178 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  109 :patMETs_slimmedMETsPuppi__PAT.obj.genParticleRef_ : vector<edm:    *
+*         | :Ref<vector<reco::GenParticle>,reco::GenParticle,edm::refhelper: *
+*         | :FindUsingAdvance<vector<reco::GenParticle>,reco:                *
+*         | :GenParticle> > > genParticleRef_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1072 bytes  File Size  =        178 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.61     *
+*............................................................................*
+*Br  110 :patMETs_slimmedMETsPuppi__PAT.obj.genParticleEmbedded_ :           *
+*         | vector<reco:                                                     *
+*         | :GenParticle> genParticleEmbedded_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1097 bytes  File Size  =        184 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.58     *
+*............................................................................*
+*Br  111 :patMETs_slimmedMETsPuppi__PAT.obj.overlapLabels_ :                 *
+*         | vector<string> overlapLabels_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1047 bytes  File Size  =        176 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.51     *
+*............................................................................*
+*Br  112 :patMETs_slimmedMETsPuppi__PAT.obj.overlapItems_ : vector<edm:      *
+*         | :PtrVector<reco:                                                 *
+*         | :Candidate> > overlapItems_[patMETs_slimmedMETsPuppi__PAT.obj_]  *
+*Entries :       10 : Total  Size=       1062 bytes  File Size  =        177 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.60     *
+*............................................................................*
+*Br  113 :patMETs_slimmedMETsPuppi__PAT.obj.userDataLabels_ :                *
+*         | vector<string> userDataLabels_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1052 bytes  File Size  =        177 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  114 :patMETs_slimmedMETsPuppi__PAT.obj.userDataObjects_.data_ :         *
+*         | vector<pat::UserData*> data_[patMETs_slimmedMETsPuppi__PAT.obj_] *
+*Entries :       10 : Total  Size=       1053 bytes  File Size  =        184 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.48     *
+*............................................................................*
+*Br  115 :patMETs_slimmedMETsPuppi__PAT.obj.userFloatLabels_ :               *
+*         | vector<string> userFloatLabels_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1057 bytes  File Size  =        178 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  116 :patMETs_slimmedMETsPuppi__PAT.obj.userFloats_ :                    *
+*         | vector<float> userFloats_[patMETs_slimmedMETsPuppi__PAT.obj_]    *
+*Entries :       10 : Total  Size=       1032 bytes  File Size  =        173 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.51     *
+*............................................................................*
+*Br  117 :patMETs_slimmedMETsPuppi__PAT.obj.userIntLabels_ :                 *
+*         | vector<string> userIntLabels_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1047 bytes  File Size  =        176 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.51     *
+*............................................................................*
+*Br  118 :patMETs_slimmedMETsPuppi__PAT.obj.userInts_ :                      *
+*         | vector<int> userInts_[patMETs_slimmedMETsPuppi__PAT.obj_]        *
+*Entries :       10 : Total  Size=       1022 bytes  File Size  =        171 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.52     *
+*............................................................................*
+*Br  119 :patMETs_slimmedMETsPuppi__PAT.obj.userCandLabels_ :                *
+*         | vector<string> userCandLabels_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1052 bytes  File Size  =        177 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  120 :patMETs_slimmedMETsPuppi__PAT.obj.userCands_ : vector<edm:         *
+*         | :Ptr<reco:                                                       *
+*         | :Candidate> > userCands_[patMETs_slimmedMETsPuppi__PAT.obj_]     *
+*Entries :       10 : Total  Size=       1047 bytes  File Size  =        174 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.61     *
+*............................................................................*
+*Br  121 :patMETs_slimmedMETsPuppi__PAT.obj.kinResolutions_ : vector<pat:    *
+*         | :CandKinResolution> kinResolutions_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1072 bytes  File Size  =        179 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.60     *
+*............................................................................*
+*Br  122 :patMETs_slimmedMETsPuppi__PAT.obj.kinResolutionLabels_ :           *
+*         | vector<string> kinResolutionLabels_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1077 bytes  File Size  =        182 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.49     *
+*............................................................................*
+*Br  123 :patMETs_slimmedMETsPuppi__PAT.obj.genMET_ : vector<reco:           *
+*         | :GenMET> genMET_[patMETs_slimmedMETsPuppi__PAT.obj_]             *
+*Entries :       10 : Total  Size=       2952 bytes  File Size  =        757 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   2.90     *
+*............................................................................*
+*Br  124 :patMETs_slimmedMETsPuppi__PAT.obj.caloMET_ :                       *
+*         | vector<SpecificCaloMETData> caloMET_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1037 bytes  File Size  =        171 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.63     *
+*............................................................................*
+*Br  125 :patMETs_slimmedMETsPuppi__PAT.obj.pfMET_ :                         *
+*         | vector<SpecificPFMETData> pfMET_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1307 bytes  File Size  =        431 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.29     *
+*............................................................................*
+*Br  126 :patMETs_slimmedMETsPuppi__PAT.obj.uncertaintiesRaw_ : vector<pat:  *
+*         | :MET:                                                            *
+*         | :PackedMETUncertainty> uncertaintiesRaw_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1142 bytes  File Size  =        262 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.33     *
+*............................................................................*
+*Br  127 :patMETs_slimmedMETsPuppi__PAT.obj.uncertaintiesType1_ : vector<pat:*
+*         | :MET:                                                            *
+*         | :PackedMETUncertainty> uncertaintiesType1_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1152 bytes  File Size  =        262 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.34     *
+*............................................................................*
+*Br  128 :patMETs_slimmedMETsPuppi__PAT.obj.uncertaintiesType1p2_ :          *
+*         | vector<pat::MET:                                                 *
+*         | :PackedMETUncertainty> uncertaintiesType1p2_[patMETs_slimmedMETsPuppi__PAT.obj_]*
+*Entries :       10 : Total  Size=       1102 bytes  File Size  =        184 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.59     *
+*............................................................................*
+*Br  129 :patMETs_slimmedMETsPuppi__PAT.obj.caloPackedMet_.packedDpx_ :      *
+*         | UShort_t packedDpx_[patMETs_slimmedMETsPuppi__PAT.obj_]          *
+*Entries :       10 : Total  Size=        992 bytes  File Size  =        196 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  130 :patMETs_slimmedMETsPuppi__PAT.obj.caloPackedMet_.packedDpy_ :      *
+*         | UShort_t packedDpy_[patMETs_slimmedMETsPuppi__PAT.obj_]          *
+*Entries :       10 : Total  Size=        992 bytes  File Size  =        196 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  131 :patMETs_slimmedMETsPuppi__PAT.obj.caloPackedMet_.packedDSumEt_ :   *
+*         | UShort_t packedDSumEt_[patMETs_slimmedMETsPuppi__PAT.obj_]       *
+*Entries :       10 : Total  Size=       1007 bytes  File Size  =        199 *
+*Baskets :        1 : Basket Size=      16384 bytes  Compression=   1.00     *
+*............................................................................*
