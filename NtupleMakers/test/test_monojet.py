@@ -16,6 +16,21 @@ process.maxEvents = cms.untracked.PSet(
 process.load('NtupleTools.InfoProducers.infoProducerSequence_cff')
 process.load('NtupleTools.Filters.DarkMatterFilter_cfi')
 process.output = cms.EDAnalyzer('MonoJetFlatTreeMaker',
+    vertices       = cms.InputTag("offlineSlimmedPrimaryVertices"),
+    muons          = cms.InputTag("slimmedMuons"),
+    electrons      = cms.InputTag("slimmedElectrons"),
+    taus           = cms.InputTag("slimmedTaus"),
+    photons        = cms.InputTag("slimmedPhotons"),
+    jets           = cms.InputTag("slimmedJets"),
+    fatjets        = cms.InputTag("slimmedJetsAK8"),
+    fatterjets     = cms.InputTag("selectedPatJetsAK1p5PFCHS"),
+    mets           = cms.InputTag("slimmedMETs"),
+    skimmets       = cms.InputTag("skimmedMETs"),
+    pfCands        = cms.InputTag("packedPFCandidates"),
+    genParticles   = cms.InputTag("prunedGenParticles"),
+    conversions    = cms.InputTag("reducedEgamma:reducedConversions"),
+    verbose_       = cms.bool(True),
+    mc_            = cms.bool(True),                                
     ntupleFileName = cms.string('monojet.root')
 )
 
