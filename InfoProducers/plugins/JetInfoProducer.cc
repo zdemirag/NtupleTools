@@ -56,7 +56,7 @@ JetInfoProducer::produce(edm::Event& iEvent, const edm::EventSetup& iSetup)
   iEvent.getByLabel("slimmedJets", ak4Jets);
   
   // prepare output
-  std::vector<float> monojet_selection_values;
+  std::vector<bool> monojet_selection_values;
   
   // fill information
   for ( const auto& jet : ak4Jets->ptrs() ){
